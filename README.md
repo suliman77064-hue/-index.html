@@ -40,7 +40,4 @@
                 <h3>الهناجر</h3>
             </div>
         </div>
-    </section>
-</body>
-</html
-خ
+    </
